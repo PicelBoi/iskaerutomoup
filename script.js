@@ -44,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
   };
   ping.send(); */
 
-  console.log(ping);
   document.getElementById("counter").textContent =
     "It has been " + TotalDiffDays + " days since Kaerutomo stopped working.";
 
