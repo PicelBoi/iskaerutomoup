@@ -1,7 +1,7 @@
 html,
 body {
   font-family: system-ui, ui-sans-serif, sans-serif;
-  background-color: lightgray;
+  background-color: #d3d3d3;
   color: black;
   line-height: 1.8;
 }
@@ -11,5 +11,13 @@ body {
   body {
     background-color: black;
     color: lightgray;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html,
+  body {
+    background-color: lightgray;
+    color: black;
   }
 }
