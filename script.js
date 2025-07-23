@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
   // how 2 code, number 1 take code from stack overflow https://stackoverflow.com/questions/542938/how-to-calculate-number-of-days-between-two-dates/46529159#46529159
 
-  var dateofdestruction = "2025-03-29";
-  var fixed = true;
+  var dateofdestruction = "2025-07-16";
+  var fixed = false;
   var deusexmachina = "2025-04-06";
 
   // JavaScript / NodeJs answer
